@@ -1,4 +1,4 @@
-from day_11 import *
+from day_11 import Grid
 
 
 def find_simultaneous_flash_step():
